@@ -1,2 +1,3 @@
 # watch-shop-api
-An api with product information for a fake watch store
+
+An api with product information for a fake watch shop.
